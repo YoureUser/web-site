@@ -217,6 +217,7 @@ body {
   list-style: disc;
   font-size: 18px;
   font-weight: 400;
+  text-align: center;
 }
 
 .item__title {
